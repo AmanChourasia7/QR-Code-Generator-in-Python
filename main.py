@@ -4,6 +4,7 @@
 # Website: www.amanchourasia.in
 # Date of Creation: 20th May 2021
 # -----------------------------
+
 # Code Starts Here!
 
 import pyqrcode # Imported pyqrcode Module
