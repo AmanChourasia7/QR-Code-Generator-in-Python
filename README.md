@@ -25,7 +25,7 @@ pip install PyQRCode pypng
 After the installation of these two modules. let's use them by importing.
 
 ```python
-import pyqrcode # Imported pyqrcode
+import pyqrcode # Imported pyqrcode Module
 
 data = "Enter the link you want to store in QR Image" # Declaring the Variables
 
@@ -43,15 +43,16 @@ The scale parameter tells you the size/Resolution of the png image.
 
 The above QR code is of scale=8
 
-So, This is how you can Generate QR Code in Python. I hope you ❤️ This repository.
+So, This is how you can Generate QR Code in Python. I hope you liked this repository.
 
------------------------------<br />
-<br />
-Author: Aman Chourasia<br />
-Website: www.amanchourasia.in<br />
-<br />
-Date of Creation: 20th May 2021<br />
-<br />
-Post Link: https://www.amanchourasia.in/2021/05/generate-qr-code-with-3-lines-of-code-in-python.html<br />
-<br />
------------------------------<br />
+## :sparkling_heart: Support the project
+
+There are few ways you can do it :-
+
+- Starring and sharing the project :rocket:
+
+Thanks! :heart:
+
+---
+
+Made with :heart: and Python.
