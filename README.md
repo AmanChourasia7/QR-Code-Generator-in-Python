@@ -26,8 +26,11 @@ After the installation of these two modules. let's use them by importing.
 
 ```python
 import pyqrcode # Imported pyqrcode
+
 data = "Enter the link you want to store in QR Image" # Declaring the Variables
+
 image = pyqrcode.create(data) # Creating a Function
+
 image.png("image_name.png",scale=8) # Saving the Image
 ```
 ## Video Tutorial
@@ -42,15 +45,13 @@ The above QR code is of scale=8
 
 So, This is how you can Generate QR Code in Python. I hope you ❤️ This repository.
 
------------------------------
-
-Author: Aman Chourasia
-Website: www.amanchourasia.in
-
-Date of Creation: 20th May 2021
-
-Post Link: https://www.amanchourasia.in/2021/05/generate-qr-code-with-3-lines-of-code-in-python.html
-
------------------------------
-
-
+-----------------------------<br />
+<br />
+Author: Aman Chourasia<br />
+Website: www.amanchourasia.in<br />
+<br />
+Date of Creation: 20th May 2021<br />
+<br />
+Post Link: https://www.amanchourasia.in/2021/05/generate-qr-code-with-3-lines-of-code-in-python.html<br />
+<br />
+-----------------------------<br />
