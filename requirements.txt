@@ -1,0 +1,2 @@
+PyQRCode 
+pypng
