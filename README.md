@@ -18,8 +18,8 @@ To generate a QR code we are going to use two libraries PyQRCode and pypng libra
 
 You need to install them first on your local device by command:
 
-```python
-pip install PyQRCode pypng
+```shell
+pip install -r requirements.txt
 ```
 
 After the installation of these two modules. let's use them by importing.
